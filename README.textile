@@ -1,0 +1,7 @@
+h1. Introduction
+
+This GitHub repository hosts the code that comes out of the GenomesUnzipped project (http://www.genomesunzipped.org).
+
+h1. Software
+
+*delscan*: identify deletions using SNP genotype calls from parent-offspring trios
